@@ -1,0 +1,14 @@
+/home/chandler/src/csharp/school/School.Console/bin/Debug/net8.0/School.Console
+/home/chandler/src/csharp/school/School.Console/bin/Debug/net8.0/School.Console.deps.json
+/home/chandler/src/csharp/school/School.Console/bin/Debug/net8.0/School.Console.runtimeconfig.json
+/home/chandler/src/csharp/school/School.Console/bin/Debug/net8.0/School.Console.dll
+/home/chandler/src/csharp/school/School.Console/bin/Debug/net8.0/School.Console.pdb
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/School.Console.GeneratedMSBuildEditorConfig.editorconfig
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/School.Console.AssemblyInfoInputs.cache
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/School.Console.AssemblyInfo.cs
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/School.Console.csproj.CoreCompileInputs.cache
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/School.Console.dll
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/refint/School.Console.dll
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/School.Console.pdb
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/School.Console.genruntimeconfig.cache
+/home/chandler/src/csharp/school/School.Console/obj/Debug/net8.0/ref/School.Console.dll
